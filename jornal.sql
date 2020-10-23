@@ -105,3 +105,13 @@ INSERT INTO `turma`(`Turma`) VALUES
 ('2F'),
 ('3F');
 
+INSERT INTO `redator`(`Nome`,`Sobrenome`,`Email`,`ddd`,`Telefone`,`Cidade`,`IdTurma`,`Dia`,`Mes`,`Ano`) VALUES
+('Jorge', 'Santana', 'jorge@gmail.com', '11', '999992222','São Paulo', '2','30','10','1990'),
+('Irineu', 'Evangelista', 'irineu@gmail.com', '44', '999992222','Ribeirão Preto', '2','04','03','2010'),
+('Maicon', 'Goouge', 'maicon@gmail.com', '32', '999412222','Ribeirão Pires', '3','23','10','2020'),
+('Douglas', 'Hunter', 'douglas@gmail.com', '64', '9321992222','Berrini', '3','14','06','1993'),
+('Vagner', 'Com V', 'vagner@gmail.com', '11', '9992452222','São Paulo', '4','20','10','2015'),
+('Jennifer', 'Lopes', 'jennifer@gmail.com', '11', '9999422222','São Paulo', '4','15','03','2001'),
+('Marta', 'Anor', 'marta@gmail.com', '11', '999992222','São Paulo', '5','10','03','1990'),
+('Maria', 'José', 'maria@gmail.com', '11', '999992222','São Paulo', '6','18','04','1990'),
+('Joaquina', 'Felix', 'joaquina@gmail.com', '11', '999992222','São Paulo', '7','01','02','2018');
